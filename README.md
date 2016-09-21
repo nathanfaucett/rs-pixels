@@ -1,4 +1,4 @@
-shader [![Build Status](https://travis-ci.org/nathanfaucett/rs-shader.svg?branch=master)](https://travis-ci.org/nathanfaucett/rs-shader)
+pixels [![Build Status](https://travis-ci.org/nathanfaucett/rs-pixels.svg?branch=master)](https://travis-ci.org/nathanfaucett/rs-pixels)
 =====
 
-shader for scene_graph
+pixels traits for image processing

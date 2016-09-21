@@ -1,11 +1,11 @@
 [package]
-name = "shader"
+name = "pixels"
 version = "0.1.0"
 authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
 
-keywords = ["shader"]
-description = "scene renderer"
+keywords = ["pixels"]
+description = "pixels traits for image processing"
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/nathanfaucett/rs-shader.git"
-homepage = "https://github.com/nathanfaucett/rs-shader"
+repository = "https://github.com/nathanfaucett/rs-pixels.git"
+homepage = "https://github.com/nathanfaucett/rs-pixels"

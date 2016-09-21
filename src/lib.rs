@@ -1,12 +1,9 @@
-#![feature(collections, alloc)]
 #![no_std]
 
 
-extern crate alloc;
-extern crate collections;
+mod pixel;
+mod pixels;
 
 
-mod shader;
-
-
-pub use shader::Shader;
+pub use pixel::Pixel;
+pub use pixels::Pixels;
