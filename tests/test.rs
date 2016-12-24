@@ -7,7 +7,7 @@ extern crate pixels;
 use vector::Vector;
 use stack::Stack;
 
-use pixels::{Pixel, Pixels};
+use pixels::Pixels;
 
 
 pub fn new_pixels(width: usize, height: usize) -> Vector<Vector<[f32; 4]>> {
